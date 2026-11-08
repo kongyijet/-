@@ -1,0 +1,6 @@
+{
+  "name": "Alarm Clock",
+  "description": "A modern, reliable alarm clock app for Android featuring real-time seconds clock, multiple alarms, custom labels, synthesized ringtones, snooze, test alarms, and full-screen alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
